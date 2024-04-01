@@ -70,7 +70,7 @@
       "default": "./cjs/reactive/preact.js"
     },
     "./signal": {
-      "types": "./types/reactive/WHERE?.d.ts",
+      "types": "./types/reactive/signal.d.ts",
       "import": "./esm/reactive/signal.js",
       "default": "./cjs/reactive/signal.js"
     },
